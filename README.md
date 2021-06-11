@@ -38,5 +38,5 @@ This are the topics provides by gnewsclient
 <a href="https://dialogflow.cloud.google.com/" title="dialogflow"><img src="https://github.com/get-icon/geticon/raw/master/icons/dialogflow.svg" alt="dialogflow" width="40px" height="40px"></a>
 <a href="https://flask.com/" title="python"><img src="https://github.com/get-icon/geticon/raw/master/icons/flask.svg" alt="flask" width="40px" height="40px"></a>
 <a href="https://heroku.com/" title="python"><img src="https://github.com/get-icon/geticon/raw/master/icons/heroku.svg" alt="heroku" width="40px" height="40px"></a>
-# Try is out
+# Try it out
 Search for @Rounak26_bot in Telegram, hopefully it will work.
