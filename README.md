@@ -8,10 +8,9 @@ This is a telegram news bot which can fetch the top 5 news about any location, l
 - It provides a custom keyboard with the news topics for the ease of the user
 - It is deployed using Heroku 
 ## Code snipet
-```ruby
-require 'redcarpet'
-markdown = Redcarpet.new("Hello World!")
-puts markdown.to_html
+
+```python
+
 ```
 
 ## Demo
