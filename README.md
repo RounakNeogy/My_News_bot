@@ -31,7 +31,7 @@ This are the topics provides by gnewsclient
 - Health
 
 ## Demo
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/HMXuAT4HIfY/0.jpg)](www.youtube.com/watch?v=HMXuAT4HIfY)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/HMXuAT4HIfY/0.jpg)](https://www.youtube.com/watch?v=HMXuAT4HIfY)
 
 # Tech-Stack
 <a href="https://python.org/" title="python"><img src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" alt="python" width="40px" height="40px"></a>
