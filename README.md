@@ -32,6 +32,7 @@ This are the topics provides by gnewsclient
 
 ## Demo
 [!](https://www.youtube.com/watch?v=HMXuAT4HIfY)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/HMXuAT4HIfY/0.jpg)](www.youtube.com/watch?v=HMXuAT4HIfY)
 
 # Tech-Stack
 
