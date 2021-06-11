@@ -36,6 +36,6 @@ This are the topics provides by gnewsclient
 # Tech-Stack
 <a href="https://python.org/" title="python"><img src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" alt="python" width="40px" height="40px"></a>
 <a href="https://dialogflow.cloud.google.com/" title="dialogflow"><img src="https://github.com/get-icon/geticon/raw/master/icons/dialogflow.svg" alt="dialogflow" width="40px" height="40px"></a>
-<a href="https://python.org/" title="python"><img src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" alt="python" width="40px" height="40px"></a>
-<a href="https://python.org/" title="python"><img src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" alt="python" width="40px" height="40px"></a>
+<a href="https://python.org/" title="python"><img src="https://github.com/get-icon/geticon/raw/master/icons/flask.svg" alt="python" width="40px" height="40px"></a>
+<a href="https://python.org/" title="python"><img src="https://github.com/get-icon/geticon/raw/master/icons/heroku.svg" alt="python" width="40px" height="40px"></a>
 
