@@ -10,7 +10,13 @@ This is a telegram news bot which can fetch the top 5 news about any location, l
 ## Code snipet
 
 ```python
+client = gnewsclient.NewsClient()
+def fetch_news(parameters):
+    client.language=parameters.get('language')
+    client.location=parameters.get('geo-country')
+    client.topic=parameters.get('topic')
 
+    return client.get_news()
 ```
 
 ## Demo
