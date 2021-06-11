@@ -18,6 +18,17 @@ def fetch_news(parameters):
 
     return client.get_news()
 ```
+## News-Topic 
+This are the topics provides by gnewsclient
+- Top Stories
+- World
+- Nation
+- Business
+- Technology
+- Entertainment
+- Sports
+- Science
+- Health
 
 ## Demo
 
