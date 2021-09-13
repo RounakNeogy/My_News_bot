@@ -30,7 +30,7 @@ def fetch_news(parameters):
     client.location=parameters.get('geo-country')
     client.topic=parameters.get('topic')
 
-    return client.get_news()
+    return client.get_news()[:5]
 
 topics_keyboard = [
     ['Top Stories', 'World', 'Nation'], 
