@@ -30,13 +30,13 @@ This are the topics provides by gnewsclient
 - Science
 - Health
 
-## Demo
+<!-- ## Demo
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/HMXuAT4HIfY/0.jpg)](https://www.youtube.com/watch?v=HMXuAT4HIfY)
-
+ -->
 # Tech-Stack
 <a href="https://python.org/" title="python"><img src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" alt="python" width="40px" height="40px"></a>
 <a href="https://dialogflow.cloud.google.com/" title="dialogflow"><img src="https://github.com/get-icon/geticon/raw/master/icons/dialogflow.svg" alt="dialogflow" width="40px" height="40px"></a>
 <a href="https://flask.com/" title="python"><img src="https://github.com/get-icon/geticon/raw/master/icons/flask.svg" alt="flask" width="40px" height="40px"></a>
 <a href="https://heroku.com/" title="python"><img src="https://github.com/get-icon/geticon/raw/master/icons/heroku.svg" alt="heroku" width="40px" height="40px"></a>
 # Try it out
-Search for @Rounak26_bot in Telegram, hopefully it will work.
+Search for @user_456bot in Telegram, hopefully it will work.
